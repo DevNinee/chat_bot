@@ -21,6 +21,8 @@ O ChatBoot resolve isso com trilhas práticas, mini projetos progressivos e foco
 
 ## Diferenciais
 
+- Chat online com amigos
+- API nvidia
 - Trilha estruturada com evolução incremental.
 - Mini projetos com escopo claro.
 - Foco em acessibilidade (voz, teclado, contraste).
